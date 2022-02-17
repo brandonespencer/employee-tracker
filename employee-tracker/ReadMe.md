@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/github/repo-size/brandonespencer/employee-tracker" />
     <img src="https://img.shields.io/github/languages/top/brandonespencer/employee-tracker"  />
     <img src="https://img.shields.io/github/issues/brandonespencer/employee-tracker" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/employee-tracker" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
+    <img src="https://img.shields.io/github/last-commit/brandonespencer/employee-tracker" >
+    <a href="https://github.com/brandonespencer"><img src="https://img.shields.io/github/followers/brandonespencer?style=social" target="_blank" /></a>
     <a href="https://twitter.com/brandonespencer">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
+        <img alt="Twitter: brandonespencer" src="https://img.shields.io/twitter/follow/brandonespencer.svg?style=social" target="_blank" />
     </a>
 </p>
   

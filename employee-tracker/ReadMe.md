@@ -106,7 +106,7 @@ Run the following command at the root of your project and answer the prompted qu
 No testing is currently set up
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/brandonespencer)
+:octocat: [brandonespencer](https://github.com/brandonespencer)
 
 ## Questions
 ✉️ Contact me with any questions: [email](Brandonespencer@yahoo.com) , [GitHub](https://github.com/brandonespencer)<br />

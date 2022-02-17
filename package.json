@@ -13,14 +13,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/jpd61/employee-tracker.git"
+      "url": "git+https://github.com/brandonespencer/employee-tracker.git"
     },
-    "author": "Joseph DeWoody",
+    "author": "Brandon E Spencer",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/jpd61/employee-tracker/issues"
+      "url": "https://github.com/brandonespencer/employee-tracker/issues"
     },
-    "homepage": "https://github.com/jpd61/employee-tracker#readme",
+    "homepage": "https://github.com/brandonespencer/employee-tracker#readme",
     "dependencies": {
       "chalk": "^4.0.0",
       "console.table": "^0.10.0",

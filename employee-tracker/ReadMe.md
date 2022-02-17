@@ -2,12 +2,12 @@
 <h1 align="center">Employee Tracker Using MySQL, Inquirer, Console.Table and Node.js 👋</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/employee-tracker" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/employee-tracker"  />
-    <img src="https://img.shields.io/github/issues/jpd61/employee-tracker" />
+    <img src="https://img.shields.io/github/repo-size/brandonespencer/employee-tracker" />
+    <img src="https://img.shields.io/github/languages/top/brandonespencer/employee-tracker"  />
+    <img src="https://img.shields.io/github/issues/brandonespencer/employee-tracker" />
     <img src="https://img.shields.io/github/last-commit/jpd61/employee-tracker" >
     <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
-    <a href="https://twitter.com/jpdewoody">
+    <a href="https://twitter.com/brandonespencer">
         <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
     </a>
 </p>

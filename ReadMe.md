@@ -31,7 +31,7 @@
 💻 Below is the gif showing the functionality of the application:
   
 
-🎥 The full movie file showing functionality of the application can be found [here]
+
   
 ## User Story
   

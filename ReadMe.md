@@ -109,4 +109,4 @@ No testing is currently set up
 :octocat: [brandonespencer](https://github.com/brandonespencer)
 
 ## Questions
-✉️ Contact me with any questions: [email](Brandonespencer@yahoo.com) , [GitHub](https://github.com/brandonespencer)<br />
+✉️ Contact me with any questions: [email](https://brandonespencer@yahoo.com) , [GitHub](https://github.com/brandonespencer)<br />

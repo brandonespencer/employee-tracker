@@ -28,7 +28,6 @@
 🔍 A node.js application that uses user input from inquirer to populate an employee tracker database displaying members of a company.
 
   
-💻 Below is the gif showing the functionality of the application:
   
 
 
